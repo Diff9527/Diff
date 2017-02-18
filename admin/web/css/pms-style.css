@@ -1,0 +1,14 @@
+/***************************************************************************/
+/* 表格单元 记录操作——编辑图标*/
+.x-grid-cell .application_form_edit{
+    background-image: url("images/exticons/icons/application_form_edit.png");
+}
+/* 表格单元 记录操作——删除图标*/
+.x-grid-cell .delete {
+    background-image: url("images/exticons/icons/delete.png");
+}
+/* 表格工具栏 导出动作——excel导出图标*/
+.x-toolbar-item .page_excel {
+    background-image: url("images/exticons/icons/page_excel.png");
+}
+/***************************************************************************/

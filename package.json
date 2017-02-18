@@ -1,0 +1,30 @@
+{
+  "name": "pms",
+  "version": "1.0.2",
+  "description": "生产管理系统",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "excel-export": "^0.5.1",
+    "express": "^4.14.0",
+    "moment": "^2.14.1",
+    "multer": "^0.1.8",
+    "node-adodb": "^2.0.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/sleepWaterGod/PMS.git"
+  },
+  "keywords": [
+    "pms"
+  ],
+}
